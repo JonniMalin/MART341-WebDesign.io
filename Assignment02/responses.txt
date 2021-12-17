@@ -1,0 +1,13 @@
+Question 1: How is the world wide web different from the Internet? I honestly don't know. I don't remember this answer coming up in any of the reading that I saw assigned for the week. Granted, I could be wrong; perhaps I missed a link somewhere on Moodle or in the course website.
+
+Question 2: Briefly describe how the Internet works. Again, this wasn't addressed in the reading for this week. But if I had to guess based on my basic, limited knowledge: People make websites, which are often stored on servers. People use browsers to navigate to those websites and use the tools/information they contain.
+
+Question 3: What is a directory, and what is it's relationship to files? A directory is the same as what the average computer user refers to as a "folder." It is a container for storing files or other directories, and its relationship to files is that it stores them for organizational purposes.
+
+Question 4: How will VCS benefit you? As I understand it, VCS allows me to track changes from snapshot to snapshot (or version to version, depending on the preferred vocabulary) of a web page or relevant file, so that I can test new changes to see if they work. A VCS also allows for quick reverting back to an older or more functional snapshot in the event a new change does not work.
+
+Question 5: Take a screenshot anytime while working on your homework. Took the screenshot. For reference, I've included it in the Assignment02 directory within my main repository.
+
+Question 6: What is your favorite kind of art? That's a tough question, actually. I like to think of myself as a creative soul. (In fact, I'm only pursuing an IT degree so as to get a "practical" job that will support my hobbies.) My first love is creative writing, particularly fantasy, although I would love to dabble in sci-fi, as well. But lately, I've also tried to take up drawing, a hobby I abandoned as a kid when I discovered my love of words. (I'd better stop there, before I write an entire novel on the subject.)
+
+Question 7: Rename this screenshot using proper naming conventions, and upload it to your Assignment02 directory. Ah! So I had the right idea. Though, I have a sneaking suspicion that Questions 5 and 7 were supposed to be grouped together, either before or after Question 6. :p

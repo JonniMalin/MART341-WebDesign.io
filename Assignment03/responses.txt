@@ -1,0 +1,7 @@
+1. Three websites that I enjoy visiting include wildelife.com (mentioned in my Week 3 assignment), DeviantArt (where I also occasionally post some of my writing), and Etsy (where I sell some of my crochet and check out items made my other artists/crafters).
+
+2. A DNS (or Domain Name Server) links IP addresses with the "names" of the websites they're attached to. For example, I may look up Google.com, but a DNS knows what Google's IP address is, and resolves the URL to the IP address.
+
+3. A cookie is a piece of code that uniquely identifies a computer so that when a device visits a website more than once, that device's preferences are remembered by the website.
+
+4. Three essential parts of a URL include the protocol (HTTP or HTTPS), the domain (the name of the website, such as Google.com or code.org), and the path (the part of the URL that navigates the directories on a website).
